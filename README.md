@@ -5,7 +5,7 @@
 <h2>📊Data Analytics Projects:</h2>
 
 - <b>💾SQL Project</b>
-  - [Demonstrating SQL Techniques](https://github.com/John-Nguyen003/SQL-Techniques))
+  - [Demonstrating SQL Techniques](https://github.com/John-Nguyen003/SQL-Techniques)
 
 <h2>📚Certifications:</h2>
 
