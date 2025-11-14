@@ -1,6 +1,5 @@
 
-<h1>Hi, I'm John Tran Nguyen <br/><a 
-href="www.linkedin.com/in/john-nguyen-830a57155">Data Analyst</a>
+<h1>Hi, I'm John Tran Nguyen <br/><a href="www.linkedin.com/in/john-nguyen-830a57155">Data Analyst</a>
 </h1>
 
 <h2>📊Data Analytics Projects:</h2>
