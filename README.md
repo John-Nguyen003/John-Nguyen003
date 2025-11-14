@@ -12,7 +12,7 @@ href="www.linkedin.com/in/john-nguyen-830a57155">Data Analyst</a>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
   - [Demonstrated competency in Beginner to Intermediate SQL skills]
-  - (https://www.linkedin.com/posts/activity-7394512129489469441-Aei8?utm_source=share&utm_medium=member_desktop&rcm=ACoAACVaUOQBORz9c5XAL6IDd5SMC2mSCuZZDxM)
+  - (https://www.virtualbadge.io/certificate-validator?credential=ff2030f2-7cff-4f15-823a-c52d23f574f4))
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/john-nguyen-830a57155" target="_blank">
