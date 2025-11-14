@@ -11,7 +11,7 @@ href="www.linkedin.com/in/john-nguyen-830a57155">Data Analyst</a>
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in beginner to intermediate SQL skills](COPY AND PASTE YOUR CERTIFICATE OF COMPLETION URL LINK HERE)
+  - [Demonstrated competency in Beginner to Intermediate SQL skills](COPY AND PASTE YOUR CERTIFICATE OF COMPLETION URL LINK HERE)
 
 
 <h2>📱Connect with me:</h2>
