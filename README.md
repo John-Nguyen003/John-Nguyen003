@@ -15,6 +15,6 @@ href="www.linkedin.com/in/john-nguyen-830a57155">Data Analyst</a>
 
 
 <h2>📱Connect with me:</h2>
-<a href="www.linkedin.com/in/john-nguyen-830a57155 target="_blank">
+<a href="www.linkedin.com/in/john-nguyen-830a57155" target="_blank">
   <img align="left" alt="John Tran Nguyen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
