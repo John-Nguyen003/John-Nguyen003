@@ -10,8 +10,7 @@
 <h2>📚Certifications:</h2>
 
 - <b>📜Beginner to Intermediate SQL Boot Camp</b>
-  - [Demonstrated competency in Beginner to Intermediate SQL skills]
-  - (https://www.virtualbadge.io/certificate-validator?credential=ff2030f2-7cff-4f15-823a-c52d23f574f4))
+  - [Demonstrated competency in Beginner to Intermediate SQL skills](https://www.virtualbadge.io/certificate-validator?credential=ff2030f2-7cff-4f15-823a-c52d23f574f4))
 
 <h2>📱Connect with me:</h2>
 <a href="https://www.linkedin.com/in/john-nguyen-830a57155" target="_blank">
