@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**John-Nguyen003/John-Nguyen003** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1>Hi, I'm John Tran Nguyen <br/><a 
+href="www.linkedin.com/in/john-nguyen-830a57155">Data Analyst</a>
+</h1>
 
-Here are some ideas to get you started:
+<h2>📊Data Analytics Projects:</h2>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- <b>💾SQL Project</b>
+  - [Demonstrating SQL Techniques](COPY AND PASTE YOUR GITHUB PROJECT URL LINK HERE)
+
+<h2>📚Certifications:</h2>
+
+- <b>📜Beginner to Intermediate SQL Boot Camp</b>
+  - [Demonstrated competency in beginner to intermediate SQL skills](COPY AND PASTE YOUR CERTIFICATE OF COMPLETION URL LINK HERE)
+
+
+<h2>📱Connect with me:</h2>
+<a href="www.linkedin.com/in/john-nguyen-830a57155 target="_blank">
+  <img align="left" alt="John Tran Nguyen" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
